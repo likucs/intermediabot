@@ -2,7 +2,7 @@
   "name": "IntermediaBot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": ["telegram", "best", "youtube", "downloader", "open", "source", "multi", "purpose", "ffmpeg", "remote", "uploader"],
-  "website": "https://github.com/m4mallu/intermediabot",
+  "website": "https://github.com/likucs/intermediabot",
   "repository": "https://github.com/m4mallu/intermediabot",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
