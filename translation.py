@@ -9,8 +9,8 @@
 class Translation(object):
     NOT_AUTH_TXT = "⚠️ <b>Unauthorized Access</b> ⚠️\nYou are not in Auth Users.  So you can't use the core " \
                    "components of this bot. Inconvenience is regretted !"
-    DOWNLOAD_START = "📥<b>DOWNLOADING</b>📥<i> Plz wait..</i>"
-    UPLOAD_START = "📤<b>UPLOADING</b>📤<i> Plz wait..</i>"
+    DOWNLOAD_START = "📥<b>DOWNLOADING</b>📥<i> Plz wait Bc..</i>"
+    UPLOAD_START = "📤<b>UPLOADING</b>📤<i> Plz wait Bc..</i>"
     SAVED_CUSTOM_THUMB_NAIL = "<b>✅ Thumbnail Saved Successfully.</b>\n<code>This file will be used in upcoming " \
                               "rename or video conversions</code> "
     SAVED_RECVD_DOC_FILE = "<b>✔️File Downloaded Successfully</b>\n⏱<code>Give the required file name with " \
@@ -22,7 +22,7 @@ class Translation(object):
                  "media to the bot.</code>\n\n3️⃣ <code>Reply to the media with the command</code> <b>/download</b> <code>and follow the " \
                  "instructions.</code>\n\n4️⃣ <code>Bot will output your formatted media with custom thumbnail, screenshots and a " \
                  "sample video.</code>\n\n<code>Supported Extensions: .mkv, .mp4, .avi and " \
-                 ".webm</code>\n\n<b>Credits- <a href='https://t.me/kiddilan'>@admin</a></b> "
+                 ".webm</code>\n\n<b>Credits- <a href='https://t.me/iAmLiKu1'>@LIKU_CS</a></b> "
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
                     "clear it !</code> "
@@ -51,10 +51,10 @@ class Translation(object):
                   "problem persists, May be your server IP got blocked by the YouTube </code>😔 "
     PROCESS_START = "Processing Youtube Url 🔎 🔎 🔎"
 
-    CUSTOM_CAPTION_DOC = "━━━━━━━━━ ✧ ━━━━━━━━\n&ensp;💢<a href='https://t.me/MoviekeralamLinks'>@MoviekeralamLinks</a" \
+    CUSTOM_CAPTION_DOC = "━━━━━━━━━ ✧ ━━━━━━━━\n&ensp;💢<a href='https://t.me/MoviesClub_OP'>@MoviesClub</a" \
                          ">💢\n━━━━━━━━━ ✧ ━━━━━━━━\n\n🎗<b>ʝσιи🎗ѕнαяє🎗ѕυρρσят</b>🎗 "
     CUSTOM_CAPTION_VIDEO = "🏷:\n\n&ensp;&ensp;&ensp; 🎞 <b>STREAMABLE FILE</b> 🎞\n\n&ensp;&ensp;&ensp;💢<a " \
-                           "href='https://t.me/MoviekeralamLinks'>@MoviekeralamLinks</a>💢 "
+                           "href='https://t.me/MoviekeralamLinks'>@cs_cloud</a>💢 "
     BOT_PM_TEXT = "<b>PM from:</b>\nName:&ensp;<b>{}</b>\nUser Name:&ensp;@{}\nUser Id:&ensp;{}\nBot Name:&ensp;<b>{" \
                   "}</b>\nBot Username:&ensp;@{} "
     BOT_RN_TEXT = "<b>Rename from:</b>\nName:&ensp;<b>{}</b>\nUser Name:&ensp;@{}\nUser Id:&ensp;{}\nBot " \
